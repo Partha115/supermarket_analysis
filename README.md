@@ -1,0 +1,19 @@
+# Supermarket_Analysis
+<img src="./Image/newplot.png"/>
+<img src="./Image/newplot (1).png"/>
+<img src="./Image/newplot (2).png"/>
+<img src="./Image/newplot (3).png"/>
+<img src="./Image/newplot (4).png"/>
+<img src="./Image/newplot (5).png"/>
+<img src="./Image/newplot (6).png"/>
+<img src="./Image/newplot (7).png"/>
+<img src="./Image/newplot (8).png"/>
+<img src="./Image/__results___23_1.png"/>
+<img src="./Image/__results___34_1.png"/>
+<img src="./Image/__results___37_4.png"/>
+<img src="./Image/__results___45_0.png"/>
+<img src="./Image/__results___68_0.png"/>
+<img src="./Image/__results___81_0.png"/>
+<img src="./Image/__results___83_0.png"/>
+<img src="./Image/__results___85_0.png"/>
+<img src="./Image/__results___87_0.png"/>
